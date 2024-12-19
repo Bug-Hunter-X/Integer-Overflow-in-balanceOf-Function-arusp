@@ -1,0 +1,1 @@
+This repository contains a Solidity smart contract with a bug in its balanceOf function and a solution to fix the bug. The bug is an integer overflow, which can occur when adding funds to the balance of an account. The solution involves using SafeMath to prevent integer overflow.
